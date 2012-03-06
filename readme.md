@@ -10,9 +10,9 @@ Check out the 'welcome' controller and 'template' view to see how my very simple
 
 Essentially it is thus:
 
-$data['page'] = "actual_view_you_want_to_load";
+    $data['page'] = "actual_view_you_want_to_load";
 
-$this->load->view('template', $data);
+    $this->load->view('template', $data);
 
 No need to worry about the header or footer, just start your page from inside the .container div.
 
