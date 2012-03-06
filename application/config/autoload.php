@@ -44,6 +44,7 @@
 |
 | These are the things you can load automatically:
 |
+| 0. Sparks
 | 1. Packages
 | 2. Libraries
 | 3. Helper files
@@ -52,6 +53,18 @@
 | 6. Models
 |
 */
+
+/*
+| -------------------------------------------------------------------
+|  Auto-load Sparks
+| -------------------------------------------------------------------
+| Prototype:
+|
+|  $autoload['sparks'] = array('example-spark/1.0.0');
+|
+*/
+
+$autoload['sparks'] = array('ion_auth/2.1.2');
 
 /*
 | -------------------------------------------------------------------
