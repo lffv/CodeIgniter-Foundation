@@ -92,7 +92,7 @@
 				<li>Autoload Database, Session, URL, ion_auth</li>
 				<li>Enter Config Information</li>
 				<li>Enter Database Information</li>
-				<li>Create .htaccess</li>
+				<li>And '.' prefix to 'htaccess' if you wish to use it</li>
 				<li>If you want to use Ion Auth, import the sql files into your database. [sparks/ion_auth/2.1.2/sql]</li>
 				</ul>
 
