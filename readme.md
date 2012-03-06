@@ -2,7 +2,7 @@
 
 ### CodeIgniter pre-configured with Sparks and ion_auth. ###
 
-### The Zurb Foundation CSS framework is included. ###
+### The Zurb Foundation CSS framework is also included. ###
 
 The idea is to clone this repo whenever you start a new CI project. You then have sparks and a simple header/footer templating system to get going with using Zurb's Excellent CSS Foundation.
 
