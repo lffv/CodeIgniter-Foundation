@@ -93,6 +93,7 @@
 				<li>Enter Config Information</li>
 				<li>Enter Database Information</li>
 				<li>Create .htaccess</li>
+				<li>If you want to use Ion Auth, import the sql files into your database. [sparks/ion_auth/2.1.2/sql]</li>
 				</ul>
 
 				<h4>Other Resources</h4>
